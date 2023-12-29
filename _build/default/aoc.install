@@ -4,5 +4,10 @@ lib: [
   "_build/install/default/lib/aoc/opam"
 ]
 bin: [
-  "_build/install/default/bin/aoc"
+  "_build/install/default/bin/Day1"
+  "_build/install/default/bin/Day2"
+  "_build/install/default/bin/Day3"
+]
+doc: [
+  "_build/install/default/doc/aoc/README.md"
 ]

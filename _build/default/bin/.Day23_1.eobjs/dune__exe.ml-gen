@@ -5,3 +5,6 @@ module Day23_1 = Dune__exe__Day23_1
 
 (** @canonical Dune__exe.Day23_2 *)
 module Day23_2 = Dune__exe__Day23_2
+
+(** @canonical Dune__exe.Day23_3 *)
+module Day23_3 = Dune__exe__Day23_3
